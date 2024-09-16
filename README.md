@@ -3,10 +3,8 @@
 <!--<link href="https://heiyou.feeldream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://heiyou.feeldream.repl.co/script.js"></script>-->
 <head>
 <!-- 
-This code was made by Rayya R
-Blog: https://sinkronin.com
-Instagram: rayyarrr
-TikTok: rayyarr_
+This code was made by Risman AF
+Instagram: rafath_99
 -->
 </head>
 <style>
@@ -15,7 +13,7 @@ TikTok: rayyarr_
 --warna-teks: white;
 }
 body{background-color:#101010;font-family: 'Ubuntu', sans-serif;padding: 25px} a{text-decoration:none;}
-body::before{content:"\00A9  Script HTML Bucin";color:white;opacity:.3;font-size:2vw;position:fixed;bottom:25px;left:25px;}
+body::before{content:"\00A9  create by risman";color:white;opacity:.3;font-size:2vw;position:fixed;bottom:25px;left:25px;}
 #bodyblur{opacity:0;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);z-index:-1;transition:all 1s ease;}
 @keyframes jj{0%  {transform: scale(1.1);} 50% {transform: scale(1.2);} 100% {transform: scale(1.1);}}
 #bodyblur img{animation-name:none;animation-duration: 3s;animation-iteration-count: infinite;}
