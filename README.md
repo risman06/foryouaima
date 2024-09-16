@@ -80,7 +80,7 @@ p{margin:1.5em 0;transition:all .5s ease;}
     <p id="katakata"></p><p id="katabawah"></p>
   </blockquote></div>
 
-  <div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()"></i>Sayang</a><b id='buttonv2'></b><a id="Bn" class='button' onClick="tolak()"></i>Engga</a></div>
+  <div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()">Sayang</a><b id='buttonv2'></b><a id="Bn" class='button' onClick="tolak()">Engga</a></div>
 </div>
 
 <script>
