@@ -1,4 +1,5 @@
-<html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<html>
+<meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script><script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
 <!--<link href="https://heiyou.feeldream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://heiyou.feeldream.repl.co/script.js"></script>-->
 <head>
@@ -67,8 +68,8 @@ p{margin:1.5em 0;transition:all .5s ease;}
 .fa-heart {opacity:.4;color:white;font-size: 30px;position: absolute;animation:  heartMove linear 1;top: -10vh;z-index: 0;}
 @keyframes heartMove {0%{transform: translateY(-10vh) ;} 100%{transform: translateY(100vh) ;}}
 </style>
-<body><div id="bodyblur"><img src="https://i.ibb.co/42TZF6t/wpwpwp.jpg" width="100%" height="100%"/></div>
-
+<body><div id="bodyblur"><img src="https://iili.io/d4au7nV.jpg" width="100%" height="100%"/></div>
+  
 <div id='Content'><p id="idgeser"></p>
 
   <div><blockquote id='bq'>
