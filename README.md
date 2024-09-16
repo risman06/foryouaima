@@ -9,10 +9,9 @@ Instagram: rafath_99
 -->
 </head>
 <style>
-:root {
---warna-bg: rgba(0, 0, 0, .45); 
---warna-teks: blue;
-}
+:root 
+  {--warna-bg: rgba(0, 0, 0, .45); --warna-teks: (white);}
+  
 body{background-color:#181C14;font-family: 'Ubuntu', sans-serif;padding: 25px} a{text-decoration:none;}
 body::before{content:"\00A9  create by risman";color:white;opacity:.3;font-size:2vw;position:fixed;bottom:25px;left:25px;}
 #bodyblur{opacity:0;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);z-index:-1;transition:all 1s ease;}
